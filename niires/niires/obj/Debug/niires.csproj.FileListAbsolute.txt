@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\niires\niires\bin\Debug\niires.exe.config
+C:\Users\user\source\repos\niires\niires\bin\Debug\niires.exe
+C:\Users\user\source\repos\niires\niires\bin\Debug\niires.pdb
+C:\Users\user\source\repos\niires\niires\obj\Debug\niires.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\niires\niires\obj\Debug\niires.Form1.resources
+C:\Users\user\source\repos\niires\niires\obj\Debug\niires.Properties.Resources.resources
+C:\Users\user\source\repos\niires\niires\obj\Debug\niires.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\niires\niires\obj\Debug\niires.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\niires\niires\obj\Debug\niires.exe
+C:\Users\user\source\repos\niires\niires\obj\Debug\niires.pdb
