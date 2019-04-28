@@ -8,3 +8,13 @@ C:\Users\user\source\repos\niires\niires\obj\Debug\niires.csproj.GenerateResourc
 C:\Users\user\source\repos\niires\niires\obj\Debug\niires.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\niires\niires\obj\Debug\niires.exe
 C:\Users\user\source\repos\niires\niires\obj\Debug\niires.pdb
+C:\GITHUB\Test_App_NIIRES\niires\niires\obj\Debug\niires.Form1.resources
+C:\GITHUB\Test_App_NIIRES\niires\niires\obj\Debug\niires.Properties.Resources.resources
+C:\GITHUB\Test_App_NIIRES\niires\niires\obj\Debug\niires.csproj.GenerateResource.Cache
+C:\GITHUB\Test_App_NIIRES\niires\niires\obj\Debug\niires.csproj.CoreCompileInputs.cache
+C:\GITHUB\Test_App_NIIRES\niires\niires\obj\Debug\niires.exe
+C:\GITHUB\Test_App_NIIRES\niires\niires\obj\Debug\niires.pdb
+C:\GITHUB\Test_App_NIIRES\niires\niires\bin\Debug\niires.exe.config
+C:\GITHUB\Test_App_NIIRES\niires\niires\bin\Debug\niires.exe
+C:\GITHUB\Test_App_NIIRES\niires\niires\bin\Debug\niires.pdb
+C:\GITHUB\Test_App_NIIRES\niires\niires\obj\Debug\niires.csprojAssemblyReference.cache

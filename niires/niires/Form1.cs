@@ -2,12 +2,13 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
-using System.Drawing;
+
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
+using System.Drawing;
 
 namespace niires
 {
@@ -30,7 +31,7 @@ namespace niires
 
         private void Form1_MouseClick(object sender, MouseEventArgs e)
         {
-            Draw myClass = new Draw();
+         //   Draw myClass = new Draw();
 
             if (e.Button == MouseButtons.Right)
             {
@@ -76,6 +77,7 @@ namespace niires
         {
             if (RedX.Count != BlueX.Count)
             {
+                MessageBox.Show("Red = " + RedX.Count + "\nBlue = " + BlueX.Count, "Not equal number of dots!", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
                 Console.WriteLine("Not equal number of dots");
                 return;
             }
@@ -171,10 +173,24 @@ namespace niires
         private void Paint(int RedX, int RedY, int BlueX, int BlueY)
         {
 
-            int i;
+          //  int i;
             var g = CreateGraphics();
            g.DrawLine(Pens.Black, RedX, RedY, BlueX, BlueY);
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            var g = CreateGraphics();
+            Color col = Color.WhiteSmoke;
+            g.Clear(col);
+            StatClass.Min_BlueX = null;
+            StatClass.Min_BlueY = null;
+            StatClass.min_result = 0;
+         RedY.Clear();
+            RedX.Clear();
+            BlueX.Clear();
+            BlueY.Clear();
         }
     }
 }
